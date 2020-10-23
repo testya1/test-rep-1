@@ -1,0 +1,13 @@
+{
+    "name": "testya0/test-rep-0",
+    "description": "Test repo",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Антон Н. Николаев",
+            "email": "nikolaevanym@yamoney.ru"
+        }
+    ],
+    "require": {}
+}
