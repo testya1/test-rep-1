@@ -3,6 +3,7 @@
     "description": "Test repo",
     "type": "library",
     "license": "MIT",
+    "version": "0.0.1",
     "authors": [
         {
             "name": "Антон Н. Николаев",
