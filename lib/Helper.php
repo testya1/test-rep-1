@@ -1,12 +1,15 @@
 <?php
 
 
-namespace TestYa0;
+namespace TestYa1;
 
-
+/**
+ * Class Helper
+ * @package TestYa1
+ */
 class Helper
 {
-    const VERSION = '0.0.3';
+    const VERSION = '0.0.5';
 
     public static function show($text)
     {

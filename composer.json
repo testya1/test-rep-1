@@ -1,9 +1,9 @@
 {
-    "name": "testya0/test-rep-0",
+    "name": "testya1/test-rep-1",
     "description": "Test repo",
     "type": "library",
     "license": "MIT",
-    "version": "0.0.3",
+    "version": "0.0.5",
     "minimum-stability": "dev",
     "authors": [
         {
@@ -14,7 +14,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "TestYa0\\": "lib/"
+            "TestYa1\\": "lib/"
         }
     }
 }
