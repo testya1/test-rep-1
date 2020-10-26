@@ -3,7 +3,7 @@
     "description": "Test repo",
     "type": "library",
     "license": "MIT",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "minimum-stability": "dev",
     "authors": [
         {
@@ -11,5 +11,10 @@
             "email": "nikolaevanym@yamoney.ru"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "TestYa0\\": "lib/"
+        }
+    }
 }
